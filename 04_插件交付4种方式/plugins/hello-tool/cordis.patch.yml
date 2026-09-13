@@ -1,0 +1,10 @@
+# Built-artifact bundle patch for `dsh plugin add`. The relative entry is anchored
+# to this file. Run `pnpm --filter dsh-hello-tool build` before booting an
+# installed profile.
+#
+# For local `--patch` iteration from a source checkout, use
+# `cordis.source.patch.yml` instead (no build required with `pnpm dsh`).
+
+- insert:
+    - id: hello-tool
+      name: './lib/types/index.js'
