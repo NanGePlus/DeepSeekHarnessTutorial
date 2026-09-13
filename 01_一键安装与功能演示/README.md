@@ -51,7 +51,7 @@ http://127.0.0.1:3080
 1. 进入 **设置（Settings） → 模型（Models）**
 2. 在 DeepSeek 卡片中填入 API Key（热生效，无需重启），API Key获取链接： [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys)
 
-也可通过 **添加提供方（Add provider）** 接入 Anthropic / OpenAI，或 **添加自定义提供方（Add a custom provider）接入任意 OpenAI 兼容网关。
+也可通过 **添加提供方（Add provider）** 接入 Anthropic / OpenAI，或添加自定义提供方（Add a custom provider）接入任意 OpenAI 兼容网关。
 
 ### 步骤 3：选择 工作区（Workspace） 并新建会话
 
