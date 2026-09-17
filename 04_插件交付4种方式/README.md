@@ -174,28 +174,6 @@ dsh-hello-tool/          ← 仓库根
 
 与方式3相同。
 
-**第 4 步：预构建 Git 分发**
-
-```sh
-cd plugins/hello-tool
-pnpm build
-git add lib/
-git commit -m "chore: add built lib for git install"
-git push
-```
-
-**第 5 步：推送到 GitHub**
-
-```sh
-git init
-git add .
-git commit -m "feat: initial dsh-hello-tool"
-git remote add origin https://github.com/你的用户名/dsh-hello-tool.git
-git push -u origin main
-```
-
-可选：打 tag 方便用户锁定版本，例如 `v0.0.1`。
-
 #### 使用方：从 GitHub 安装
 
 前提：已安装 `dsh` CLI。
