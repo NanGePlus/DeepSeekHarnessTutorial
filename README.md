@@ -46,7 +46,6 @@
 - B站频道(@南哥AGI研习社)：[https://space.bilibili.com/509246474](https://space.bilibili.com/509246474)
 - GitHub 地址：[https://github.com/NanGePlus](https://github.com/NanGePlus)
 - Gitee 地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
-- 大模型代理平台: [https://nangeai.top/](https://nangeai.top/)
 
 
 
