@@ -130,7 +130,7 @@ tarball 内已含预构建 `lib/`，对方安装时**不需要**运行 build 脚
 ```sh
 cd plugins/hello-tool
 pnpm build
-pnpm publish --access public --no-git-checks
+npm publish --access public --no-git-checks
 ```
 
 #### 使用方安装
@@ -167,7 +167,7 @@ dsh-hello-tool/          ← 仓库根
   cordis.patch.yml
   src/index.ts
   tsconfig.json
-  lib/                     ← 见第 3 步策略 A / B
+  lib/ 
 ```
 
 **第 3 步：改** `package.json`**（发布前必做）**
