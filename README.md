@@ -46,7 +46,8 @@
 - B站频道(@南哥AGI研习社)：[https://space.bilibili.com/509246474](https://space.bilibili.com/509246474)
 - GitHub 地址：[https://github.com/NanGePlus](https://github.com/NanGePlus)
 - Gitee 地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
-
+- AI Coding Skills 获取方式1：https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=41424824&loadingShow=1&noTitleBar=1#noReffer=true&msource=merchant_share      
+- AI Coding Skills 获取方式2:https://www.patreon.com/nangeagi/posts/ni-shi-bu-shi-ye-166882633?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link       
 
 
 ### 其他开源分享推荐
