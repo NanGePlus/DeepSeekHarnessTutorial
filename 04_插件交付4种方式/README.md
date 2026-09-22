@@ -180,12 +180,7 @@ dsh-hello-tool/          ← 仓库根
 
 ```sh
 # 安装插件
-# 跟踪 main 最新（不推荐生产）
 pnpm dsh plugin --profile web add github:你的用户名/dsh-hello-tool
-# 推荐：锁定 tag 或 commit，避免作者 push 后 silently 变代码
-pnpm dsh plugin --profile web add github:你的用户名/dsh-hello-tool#v0.0.1
-# 或
-pnpm dsh plugin --profile web add github:你的用户名/dsh-hello-tool#<commit-sha>
 
 # 重新启动
 pnpm dsh web
