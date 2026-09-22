@@ -130,7 +130,7 @@ tarball 内已含预构建 `lib/`，对方安装时**不需要**运行 build 脚
 ```sh
 cd plugins/hello-tool
 pnpm build
-npm publish --access public --no-git-checks
+npm publish --access public --userconfig ../../.npmrc
 ```
 
 #### 使用方安装
