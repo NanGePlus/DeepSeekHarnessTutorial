@@ -1,0 +1,50 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib/types",
+    "jsx": "react-jsx",
+    "lib": ["ES2024", "DOM", "DOM.Iterable"]
+  },
+  "include": [
+    "src"
+  ],
+  "references": [
+    {
+      "path": "../../vendor/cordis"
+    },
+    {
+      "path": "../../packages/core/session"
+    },
+    {
+      "path": "../../packages/session/session-persistence"
+    },
+    {
+      "path": "../../packages/typert/protocol"
+    },
+    {
+      "path": "../../packages/workspace/workspace"
+    },
+    {
+      "path": "../../packages/client/locale"
+    },
+    {
+      "path": "../../packages/client/ui-slots"
+    },
+    {
+      "path": "../../packages/client/ui-conversation"
+    },
+    {
+      "path": "../../packages/api/session-controller/tsconfig.client.json"
+    },
+    {
+      "path": "../../packages/api/gateway/tsconfig.client.json"
+    },
+    {
+      "path": "../../packages/client/store"
+    },
+    {
+      "path": "../../packages/client/ui-primitives"
+    }
+  ]
+}

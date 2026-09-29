@@ -1,0 +1,10 @@
+# Built-artifact bundle patch for `dsh plugin add`. The relative entry is anchored
+# to this file. Run `pnpm --filter @nangeagi/dsh-sop-capsules build` before booting
+# an installed profile.
+#
+# For local `--patch` iteration from a source checkout, use
+# `cordis.source.patch.yml` instead.
+
+- insert:
+    - id: sop-capsules
+      name: '@nangeagi/dsh-sop-capsules'

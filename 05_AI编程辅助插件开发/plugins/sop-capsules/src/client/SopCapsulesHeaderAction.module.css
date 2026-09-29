@@ -1,0 +1,49 @@
+.root {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.anchor {
+  display: inline-flex;
+  align-items: center;
+}
+
+.trigger {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 0;
+  border-radius: 28px;
+  background: transparent;
+  color: var(--dsw-alias-label-secondary);
+  cursor: pointer;
+}
+
+.trigger:hover:not(:disabled),
+.trigger:focus-visible:not(:disabled) {
+  background: var(--dsw-alias-interactive-bg-hover);
+  color: var(--dsw-alias-label-primary);
+}
+
+.trigger:disabled {
+  cursor: default;
+  opacity: 0.45;
+}
+
+.spinner {
+  animation: sop-capsules-spin 900ms linear infinite;
+}
+
+@keyframes sop-capsules-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
