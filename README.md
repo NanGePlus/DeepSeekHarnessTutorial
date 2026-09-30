@@ -78,9 +78,11 @@ Gitee 地址：[https://gitee.com/NanGePlus](https://gitee.com/NanGePlus)
 
 
 
-## 本系列视频链接地址速查
+## 本系列视频链接地址速查      
 
-敬请期待……
+🎬 视频合集链接：            
+B站视频链接：https://www.bilibili.com/video/BV1fJYk6NEQb/              
+YouTube视频链接：https://www.youtube.com/playlist?list=PLaooKLIkjb0g             
 
 ---
 
