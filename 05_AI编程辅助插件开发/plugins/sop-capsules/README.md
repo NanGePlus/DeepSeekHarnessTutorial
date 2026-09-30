@@ -88,23 +88,23 @@ pnpm dsh web --patch plugins/sop-capsules/cordis.source.patch.yml
 
 📦 安装上手 → 🧠 核心认知 → 🛠️ 源码部署 → 🔌 插件交付 → 🤖 AI 辅助开发 → 📊 可观测链路
 
-**目前已在频道更新内容：**
+**目前已在频道更新内容：**         
 
-【EP01】零基础上手 DeepSeek Harness，从这一步开始。一键安装 + 页面功能 + 插件挂载和卸载
-【EP02】搞懂 DeepSeek Harness，从这一层开始。概念 + 架构 + 四种 Agent 模式 + Profile/Bundle/Patch
-【EP03】深入 DeepSeek Harness，从源码跑起来开始。源码安装 + 运行实操 + 配置说明
-【EP04】搞定 DeepSeek Harness 插件交付，从这 4 种方式开始。本地 + tarball + npm registry + Git 仓库
-【EP05】用 AI Coding SOP 高效写 DeepSeek Harness 插件，需求对齐->规划拆解->分拣实现->排错修复->架构维护和交付
-期待更多……
+【EP01】零基础上手 DeepSeek Harness，从这一步开始。一键安装 + 页面功能 + 插件挂载和卸载           
+【EP02】搞懂 DeepSeek Harness，从这一层开始。概念 + 架构 + 四种 Agent 模式 + Profile/Bundle/Patch            
+【EP03】深入 DeepSeek Harness，从源码跑起来开始。源码安装 + 运行实操 + 配置说明           
+【EP04】搞定 DeepSeek Harness 插件交付，从这 4 种方式开始。本地 + tarball + npm registry + Git 仓库               
+【EP05】用 AI Coding SOP 高效写 DeepSeek Harness 插件，需求对齐->规划拆解->分拣实现->排错修复->架构维护和交付           
+期待更多……            
 
-🎬 视频合集链接：
+🎬 视频合集链接：       
 
-B站视频链接：[https://www.bilibili.com/video/BV1fJYk6NEQb/](https://www.bilibili.com/video/BV1fJYk6NEQb/)
-YouTube视频链接：[https://www.youtube.com/playlist?list=PLaooKLIkjb0g](https://www.youtube.com/playlist?list=PLaooKLIkjb0g)
+B站视频链接：[https://www.bilibili.com/video/BV1fJYk6NEQb/](https://www.bilibili.com/video/BV1fJYk6NEQb/)         
+YouTube视频链接：[https://www.youtube.com/playlist?list=PLaooKLIkjb0g](https://www.youtube.com/playlist?list=PLaooKLIkjb0g)         
 
-【充电视频 · AGI研习｜进阶（30元档）】持续更新中，感兴趣的朋友欢迎充电支持，非常感谢大家：
+【充电视频 · AGI研习｜进阶（30元档）】持续更新中，感兴趣的朋友欢迎充电支持，非常感谢大家：      
 
-（1）**零基础上手 DeepSeek Harness：从安装到插件交付的全链路实战**
+（1）**零基础上手 DeepSeek Harness：从安装到插件交付的全链路实战**       
 
 B站视频链接：[https://www.bilibili.com/video/BV1fJYk6NEQb/](https://www.bilibili.com/video/BV1fJYk6NEQb/)
 
