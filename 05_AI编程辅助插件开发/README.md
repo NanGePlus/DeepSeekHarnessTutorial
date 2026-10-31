@@ -1,6 +1,7 @@
 # 05 **用 AI Coding SOP 高效写 DeepSeek Harness 插件**
 
-> 本指南以 [DeepSeek Harness](https://deepseek-harness.github.io/deepseek-harness/develop/basic/)（开源 agent harness，CLI 为 `dsh`）为载体，演示如何在 `my-dsh-plugins` 插件开发基线**上用 Cursor / Claude Code 等 AI 编程助手完成**多插件定制化开发。
+> 本指南以 [DeepSeek Harness](https://deepseek-harness.github.io/deepseek-harness/develop/basic/)（开源 agent harness，CLI 为 `dsh`）为载体，演示如何在 `my-dsh-plugins` 插件开发基线**上用 Cursor / Claude Code 等 AI 编程助手完成**多插件定制化开发。  
+> 若需用 **创造模式**（Desktop / Web 等客户端）以自然语言完成插件试验与多端安装，见 [`06_创造模式插件开发`](../06_创造模式插件开发/README.md)。
 
 ---
 

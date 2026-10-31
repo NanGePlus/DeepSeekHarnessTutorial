@@ -86,7 +86,7 @@ pnpm dsh web --patch plugins/sop-capsules/cordis.source.patch.yml
 
 本系列带大家零基础上手 DeepSeek Harness，沿着一条能真正走完的路径，从安装到插件交付的全链路实战：
 
-📦 安装上手 → 🧠 核心认知 → 🛠️ 源码部署 → 🔌 插件交付 → 🤖 AI 辅助开发 → 📊 可观测链路
+📦 安装上手 → 🧠 核心认知 → 🛠️ 源码部署 → 🔌 插件交付 → 🤖 AI 辅助开发
 
 **目前已在频道更新内容：**         
 
