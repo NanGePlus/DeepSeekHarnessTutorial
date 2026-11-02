@@ -1,4 +1,4 @@
-# 07 DeepSeek **Super-agent** 原型项目部署、配置和测试
+# DeepSeek **Super-agent** 原型项目部署、配置和测试
 
 ## 一、你需要提前准备什么
 
